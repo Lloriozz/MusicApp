@@ -1,0 +1,3 @@
+/Users/dlongng/IdeaProjects/long/src/Main/MusicApp/src/assets/mp3/tagmp3_ĐLTTAĐ---Sơn-Tùng-MTP.mp3
+/Users/dlongng/IdeaProjects/long/src/Main/MusicApp/src/assets/mp3/tagmp3_Super-Power---Daniel-Caesar.mp3
+/Users/dlongng/IdeaProjects/long/src/Main/MusicApp/src/assets/mp3/tagmp3_Nothing---Bruno-Major.mp3
